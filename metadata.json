@@ -1,0 +1,6 @@
+{
+  "name": "Creating Great Smiles Bathurst - Orthodontics & Dental Care",
+  "description": "Specialist orthodontic and comprehensive dental practice in Bathurst, NSW since 1956. Led by Dr. Emma Bowman and team. Book online, gap fee calculator, and emergency triage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
